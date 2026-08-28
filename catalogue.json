@@ -25,7 +25,12 @@
         "en": "Sri Guru Granth Sahib Ji",
         "pa": "ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ"
       },
-      "sttmCoSlug": "g"
+      "sttmCoSlug": "g",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Guru_Granth_Sahib.jpg",
+      "aboutUrl": {
+        "en": "https://www.sikhiwiki.org/index.php/Guru_Granth_Sahib",
+        "pa": "https://pa.wikipedia.org/wiki/ਗੁਰੂ_ਗ੍ਰੰਥ_ਸਾਹਿਬ"
+      }
     }
   ],
   "collections": [
@@ -33,7 +38,9 @@
       "id": "78670ce8-29ad-4a2c-9ead-5504755756bc",
       "kind": "sehaj_paath",
       "reciterId": "3bd6cc33-926d-4a90-943b-67d2d81dcde0",
-      "languages": ["pa"],
+      "languages": [
+        "pa"
+      ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "tracks": [
@@ -79,7 +86,9 @@
       "id": "ae8b0d5f-1bb0-4944-a2de-417d14a1106a",
       "kind": "sehaj_paath",
       "reciterId": "2c116cbd-0991-4c30-ae8d-3201e9cdec0e",
-      "languages": ["pa"] ,
+      "languages": [
+        "pa"
+      ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "tracks": [
@@ -125,22 +134,34 @@
   "resourceSections": [
     {
       "id": "f6b53aed-f30e-4ba1-8282-18810c0640af",
-      "title": { "en": "Gurbani", "pa": "ਗੁਰਬਾਣੀ" }
+      "title": {
+        "en": "Gurbani",
+        "pa": "ਗੁਰਬਾਣੀ"
+      }
     },
     {
       "id": "fa3bc241-5e82-481f-9d12-e48a1183f222",
-      "title": { "en": "Media", "pa": "ਮੀਡੀਆ" }
+      "title": {
+        "en": "Media",
+        "pa": "ਮੀਡੀਆ"
+      }
     },
     {
       "id": "973d9b4c-31c5-4948-aba9-2a8cf6165b08",
-      "title": { "en": "Thanks", "pa": "ਧੰਨਵਾਦ" }
+      "title": {
+        "en": "Thanks",
+        "pa": "ਧੰਨਵਾਦ"
+      }
     }
   ],
   "resources": [
     {
       "id": "fc3d677d-0828-482c-967c-e4f5fa47e283",
       "sectionId": "f6b53aed-f30e-4ba1-8282-18810c0640af",
-      "title": { "en": "SikhiToTheMax", "pa": "ਸਿੱਖੀ ਟੂ ਦ ਮੈਕਸ" },
+      "title": {
+        "en": "SikhiToTheMax",
+        "pa": "ਸਿੱਖੀ ਟੂ ਦ ਮੈਕਸ"
+      },
       "description": {
         "en": "Read along on the web at sttm.co.",
         "pa": "ਵੈੱਬ ਤੇ sttm.co ਉੱਤੇ ਨਾਲ ਨਾਲ ਪੜ੍ਹੋ।"
@@ -150,7 +171,10 @@
     {
       "id": "c0b8a140-a76d-4fb7-a159-f46264403808",
       "sectionId": "f6b53aed-f30e-4ba1-8282-18810c0640af",
-      "title": { "en": "SikhiToTheMax app", "pa": "ਸਿੱਖੀ ਟੂ ਦ ਮੈਕਸ ਐਪ" },
+      "title": {
+        "en": "SikhiToTheMax app",
+        "pa": "ਸਿੱਖੀ ਟੂ ਦ ਮੈਕਸ ਐਪ"
+      },
       "description": {
         "en": "The SikhiToTheMax mobile app for reading Gurbani.",
         "pa": "ਗੁਰਬਾਣੀ ਪੜ੍ਹਨ ਲਈ ਸਿੱਖੀ ਟੂ ਦ ਮੈਕਸ ਮੋਬਾਈਲ ਐਪ।"
@@ -160,7 +184,10 @@
     {
       "id": "75e82ffc-42ef-4e4c-b8f6-d687215add27",
       "sectionId": "fa3bc241-5e82-481f-9d12-e48a1183f222",
-      "title": { "en": "Gurbani Sewa", "pa": "ਗੁਰਬਾਣੀ ਸੇਵਾ" },
+      "title": {
+        "en": "Gurbani Sewa",
+        "pa": "ਗੁਰਬਾਣੀ ਸੇਵਾ"
+      },
       "description": {
         "en": "Gurbani katha, keertan, and other media from gurbanisewa.org.",
         "pa": "gurbanisewa.org ਤੋਂ ਗੁਰਬਾਣੀ ਕਥਾ, ਕੀਰਤਨ ਅਤੇ ਹੋਰ ਮੀਡੀਆ।"
