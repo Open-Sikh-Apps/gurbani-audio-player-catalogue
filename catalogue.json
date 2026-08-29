@@ -54,7 +54,8 @@
           "url": "https://www.gurmatveechar.com/audios/Gurbani_Ucharan/Bhai_Mehnga_Singh/Giani.Mehnga.Singh--Guru.Granth.Sahib.Ji.Sehaj.Paath.Ang.0001.to.Ang.0013.mp3",
           "durationSec": 2586,
           "startAng": 1,
-          "endAng": 13
+          "endAng": 13,
+          "byteSize": 41376678
         },
         {
           "kind": "sehaj_paath",
@@ -66,7 +67,8 @@
           "url": "https://www.gurmatveechar.com/audios/Gurbani_Ucharan/Bhai_Mehnga_Singh/Giani.Mehnga.Singh--Guru.Granth.Sahib.Ji.Sehaj.Paath.Ang.0014.to.Ang.0022.mp3",
           "durationSec": 1674,
           "startAng": 14,
-          "endAng": 22
+          "endAng": 22,
+          "byteSize": 26778759
         },
         {
           "kind": "sehaj_paath",
@@ -78,7 +80,8 @@
           "url": "https://www.gurmatveechar.com/audios/Gurbani_Ucharan/Bhai_Mehnga_Singh/Giani.Mehnga.Singh--Guru.Granth.Sahib.Ji.Sehaj.Paath.Ang.0022.to.Ang.0028.mp3",
           "durationSec": 1250,
           "startAng": 22,
-          "endAng": 28
+          "endAng": 28,
+          "byteSize": 19995837
         }
       ]
     },
@@ -102,7 +105,8 @@
           "url": "https://www.gurmatveechar.com/audios/Gurbani_Ucharan/Giani_Bhupinder_Singh_%28Damdami_Taksal_wale%29/Sri_Guru_Granth_Sahib_Sehaj_Paath/Giani.Bhupinder.Singh.%28Damdami.Taksal.wale%29--Sri.Guru.Granth.Sahib.Ji.Paath.Part.001.mp3",
           "durationSec": 1250,
           "startAng": 1,
-          "endAng": 5
+          "endAng": 5,
+          "byteSize": 6250089
         },
         {
           "kind": "sehaj_paath",
@@ -114,7 +118,8 @@
           "url": "https://www.gurmatveechar.com/audios/Gurbani_Ucharan/Giani_Bhupinder_Singh_%28Damdami_Taksal_wale%29/Sri_Guru_Granth_Sahib_Sehaj_Paath/Giani.Bhupinder.Singh.%28Damdami.Taksal.wale%29--Sri.Guru.Granth.Sahib.Ji.Paath.Part.002.mp3",
           "durationSec": 1066,
           "startAng": 6,
-          "endAng": 12
+          "endAng": 12,
+          "byteSize": 5331493
         },
         {
           "kind": "sehaj_paath",
@@ -126,7 +131,8 @@
           "url": "https://www.gurmatveechar.com/audios/Gurbani_Ucharan/Giani_Bhupinder_Singh_%28Damdami_Taksal_wale%29/Sri_Guru_Granth_Sahib_Sehaj_Paath/Giani.Bhupinder.Singh.%28Damdami.Taksal.wale%29--Sri.Guru.Granth.Sahib.Ji.Paath.Part.003.mp3",
           "durationSec": 1051,
           "startAng": 13,
-          "endAng": 18
+          "endAng": 18,
+          "byteSize": 5254693
         }
       ]
     }
