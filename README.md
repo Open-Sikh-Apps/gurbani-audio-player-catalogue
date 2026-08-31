@@ -14,9 +14,3 @@ Cloudflare Pages project: `gurbani-paath-player-catalogue`. Deploy with Wrangler
 CI checkouts the app repo, runs `scripts/fill-catalogue-bytesize.ts`, then Valibot (`scripts/validate-catalogue.ts`). Upload happens only after that passes. Sanity is not required.
 
 Upload order if you ever use the Cloudflare dashboard: `catalogue.json` first, then `catalogue.version.json`.
-
-## App URL
-
-```
-EXPO_PUBLIC_CATALOGUE_BASE_URL=https://gurbani-paath-player-catalogue.pages.dev
-```
