@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "heroImageUrl": "/images/sggsj.jpg",
   "authors": [],
   "reciters": [
@@ -10983,15 +10983,15 @@
     {
       "id": "f6b53aed-f30e-4ba1-8282-18810c0640af",
       "title": {
-        "en": "Gurbani",
-        "pa": "ਗੁਰਬਾਣੀ"
+        "en": "Gurbani Reading",
+        "pa": "ਗੁਰਬਾਣੀ ਪੜ੍ਹਨਾ"
       }
     },
     {
       "id": "fa3bc241-5e82-481f-9d12-e48a1183f222",
       "title": {
-        "en": "Media",
-        "pa": "ਮੀਡੀਆ"
+        "en": "Gurbani Media",
+        "pa": "ਗੁਰਬਾਣੀ ਮੀਡੀਆ"
       }
     }
   ],
