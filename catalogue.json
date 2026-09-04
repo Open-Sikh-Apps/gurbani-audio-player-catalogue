@@ -10997,6 +10997,19 @@
   ],
   "resources": [
     {
+      "id": "a42b22dc-3f2c-4b6e-9ca3-7b50cd28bdbf",
+      "sectionId": "973d9b4c-31c5-4948-aba9-2a8cf6165b08",
+      "title": {
+        "en": "Thanks to Gurbani Sewa",
+        "pa": "ਗੁਰਬਾਣੀ ਸੇਵਾ ਦਾ ਧੰਨਵਾਦ"
+      },
+      "description": {
+        "en": "Special thanks to www.gurbanisewa.org for providing audio files.",
+        "pa": "ਆਡੀਓ ਫਾਈਲਾਂ ਦੇਣ ਲਈ www.gurbanisewa.org ਦਾ ਵਿਸ਼ੇਸ਼ ਧੰਨਵਾਦ।"
+      },
+      "url": "https://www.gurbanisewa.org"
+    },
+    {
       "id": "fc3d677d-0828-482c-967c-e4f5fa47e283",
       "sectionId": "f6b53aed-f30e-4ba1-8282-18810c0640af",
       "title": {
@@ -11032,19 +11045,6 @@
       "description": {
         "en": "Gurbani katha, keertan, and other media from gurbanisewa.org.",
         "pa": "gurbanisewa.org ਤੋਂ ਗੁਰਬਾਣੀ ਕਥਾ, ਕੀਰਤਨ ਅਤੇ ਹੋਰ ਮੀਡੀਆ।"
-      },
-      "url": "https://www.gurbanisewa.org"
-    },
-    {
-      "id": "a42b22dc-3f2c-4b6e-9ca3-7b50cd28bdbf",
-      "sectionId": "973d9b4c-31c5-4948-aba9-2a8cf6165b08",
-      "title": {
-        "en": "Thanks to Gurbani Sewa",
-        "pa": "ਗੁਰਬਾਣੀ ਸੇਵਾ ਦਾ ਧੰਨਵਾਦ"
-      },
-      "description": {
-        "en": "Special thanks to www.gurbanisewa.org for providing audio files.",
-        "pa": "ਆਡੀਓ ਫਾਈਲਾਂ ਦੇਣ ਲਈ www.gurbanisewa.org ਦਾ ਵਿਸ਼ੇਸ਼ ਧੰਨਵਾਦ।"
       },
       "url": "https://www.gurbanisewa.org"
     }
