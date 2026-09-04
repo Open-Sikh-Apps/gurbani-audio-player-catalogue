@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "heroImageUrl": "/images/sggsj.jpg",
   "authors": [],
   "reciters": [
@@ -10974,6 +10974,13 @@
   ],
   "resourceSections": [
     {
+      "id": "973d9b4c-31c5-4948-aba9-2a8cf6165b08",
+      "title": {
+        "en": "Thanks",
+        "pa": "ਧੰਨਵਾਦ"
+      }
+    },
+    {
       "id": "f6b53aed-f30e-4ba1-8282-18810c0640af",
       "title": {
         "en": "Gurbani",
@@ -10985,13 +10992,6 @@
       "title": {
         "en": "Media",
         "pa": "ਮੀਡੀਆ"
-      }
-    },
-    {
-      "id": "973d9b4c-31c5-4948-aba9-2a8cf6165b08",
-      "title": {
-        "en": "Thanks",
-        "pa": "ਧੰਨਵਾਦ"
       }
     }
   ],
