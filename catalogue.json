@@ -1,6 +1,9 @@
 {
-  "version": 3,
-  "heroImageUrl": "/images/sggsj.jpg",
+  "version": 4,
+  "heroImageUrl": {
+    "light": "/images/sggsj-light.jpg",
+    "dark": "/images/sggsj-dark.jpg"
+  },
   "authors": [],
   "reciters": [
     {
@@ -54,7 +57,10 @@
         "pa": "ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ"
       },
       "sttmCoSlug": "g",
-      "imageUrl": "/images/sggsj.jpg",
+      "imageUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "aboutUrl": {
         "en": "https://www.sikhiwiki.org/index.php/Guru_Granth_Sahib",
         "pa": "https://pa.wikipedia.org/wiki/ਗੁਰੂ_ਗ੍ਰੰਥ_ਸਾਹਿਬ"
@@ -71,7 +77,10 @@
       ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
-      "artworkUrl": "/images/sggsj.jpg",
+      "artworkUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "tracks": [
         {
           "kind": "sehaj_paath",
@@ -1943,7 +1952,10 @@
       ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
-      "artworkUrl": "/images/sggsj.jpg",
+      "artworkUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "tracks": [
         {
           "kind": "sehaj_paath",
@@ -3776,7 +3788,10 @@
       ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
-      "artworkUrl": "/images/sggsj.jpg",
+      "artworkUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "tracks": [
         {
           "kind": "sehaj_paath",
@@ -5609,7 +5624,10 @@
       ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
-      "artworkUrl": "/images/sggsj.jpg",
+      "artworkUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "tracks": [
         {
           "kind": "sehaj_paath",
@@ -7338,7 +7356,10 @@
       ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
-      "artworkUrl": "/images/sggsj.jpg",
+      "artworkUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "tracks": [
         {
           "kind": "sehaj_paath",
@@ -9639,7 +9660,10 @@
       ],
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
-      "artworkUrl": "/images/sggsj.jpg",
+      "artworkUrl": {
+        "light": "/images/sggsj-light.jpg",
+        "dark": "/images/sggsj-dark.jpg"
+      },
       "tracks": [
         {
           "kind": "sehaj_paath",
