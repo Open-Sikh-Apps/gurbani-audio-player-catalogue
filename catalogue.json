@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "heroImageUrl": {
-    "light": "/images/sggsj-light.jpg",
+    "light": "/images/sggsj-light-2.jpg",
     "dark": "/images/sggsj-dark.jpg"
   },
   "authors": [],
@@ -58,7 +58,7 @@
       },
       "sttmCoSlug": "g",
       "imageUrl": {
-        "light": "/images/sggsj-light.jpg",
+        "light": "/images/sggsj-light-2.jpg",
         "dark": "/images/sggsj-dark.jpg"
       },
       "aboutUrl": {
@@ -78,7 +78,7 @@
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "artworkUrl": {
-        "light": "/images/sggsj-light.jpg",
+        "light": "/images/sggsj-light-2.jpg",
         "dark": "/images/sggsj-dark.jpg"
       },
       "tracks": [
@@ -1953,7 +1953,7 @@
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "artworkUrl": {
-        "light": "/images/sggsj-light.jpg",
+        "light": "/images/sggsj-light-2.jpg",
         "dark": "/images/sggsj-dark.jpg"
       },
       "tracks": [
@@ -3789,7 +3789,7 @@
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "artworkUrl": {
-        "light": "/images/sggsj-light.jpg",
+        "light": "/images/sggsj-light-2.jpg",
         "dark": "/images/sggsj-dark.jpg"
       },
       "tracks": [
@@ -5625,7 +5625,7 @@
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "artworkUrl": {
-        "light": "/images/sggsj-light.jpg",
+        "light": "/images/sggsj-light-2.jpg",
         "dark": "/images/sggsj-dark.jpg"
       },
       "tracks": [
@@ -7357,7 +7357,7 @@
       "scriptureId": "f73973d6-8bd7-4972-a0b7-a951ee6d6bf1",
       "downloadable": true,
       "artworkUrl": {
-        "light": "/images/sggsj-light.jpg",
+        "light": "/images/sggsj-light-2.jpg",
         "dark": "/images/sggsj-dark.jpg"
       },
       "tracks": [
